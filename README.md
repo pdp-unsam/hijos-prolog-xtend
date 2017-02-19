@@ -11,7 +11,7 @@ sudo apt-get install swi-prolog
 sudo apt-get install swi-prolog-java
 ```
 ### Windows
-> Creo que instalandolo normalmente ya viene con JPL (VARIFICAR!)
+> Creo que instalándolo normalmente ya viene con JPL (VARIFICAR!)
 
 _**Verificar que en el directorio donde se haya instalado swi-prolog `/lib` se encuentre el archivo `jpl.jar`**_
 
